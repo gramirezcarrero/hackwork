@@ -1,4 +1,10 @@
 # hackwork
-npm install 
+install in mac os
+```bash
+  npm install
+  ```
 execute 
-node node.js
+```bash
+  node node.js
+  ```
+
