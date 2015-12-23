@@ -1,0 +1,15 @@
+{
+  "name": "hack",
+  "version": "0.0.1",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "color-terminal": "0.0.3-4",
+    "phpjs": "~1.3.2"
+  }
+}
